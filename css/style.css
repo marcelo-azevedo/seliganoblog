@@ -23,11 +23,13 @@ body{
 				padding:7px 0 15px 0 ;
 				margin-right: 40px;
 				list-style: none;
-				color: white;
 				border-top: 7px solid #434343;
 			}
+			#topo ul li a{
+				color: white;
+      }
 
-			#topo ul li.sele-topo{
+			#topo ul li.current-menu-item{
 				border-color: #50a7df;
 			}
 
